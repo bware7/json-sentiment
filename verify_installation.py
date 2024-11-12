@@ -5,3 +5,4 @@ import spacy
 from spacytextblob.spacytextblob import SpacyTextBlob
 
 print('All prereqs installed.')
+print('Bin Ware')
