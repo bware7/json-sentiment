@@ -1,1 +1,11 @@
-.ipynb_checkpoints
+# Python virtual environment
+.venv/
+
+# Visual Studio Code settings and workspace
+.vscode/
+
+# Compiled Python files
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
